@@ -43,15 +43,15 @@ ul {
     width: 90%;
 }
 
-#kayak {
+#appetizer {
     background-color: brown;
 }
 
-#swim {
+#beef {
     background-color: darkorchid;
 }
 
-#run {
+#fish {
     background-color: forestgreen;
 }
 
