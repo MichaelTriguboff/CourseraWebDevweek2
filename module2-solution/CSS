@@ -113,10 +113,7 @@ ul {
       float: left;
       padding: 15px;
     }
-    .col-lg-tablet {
-      width: 100%
-      float:left
-    }
+   
   }
 
   /********** Mobile version **********/
